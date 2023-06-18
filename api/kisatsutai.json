@@ -8,5 +8,10 @@
     "name": "竈門禰豆子",
     "image": "/kimetsu_api/images/nezuko.jpg",
     "category": "鬼殺隊"
+  },
+  {
+    "name": "サイコロステーキ先輩",
+    "image": "/kimetsu_api/images/saikorostakesenpai.jpg",
+    "category": "鬼殺隊"
   }
 ]
