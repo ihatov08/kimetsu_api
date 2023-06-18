@@ -1,0 +1,22 @@
+[
+  {
+    "name": "竈門炭治郎",
+    "image": "/images/tanjiro.jpg",
+    "category": "鬼殺隊"
+  },
+  {
+    "name": "竈門禰豆子",
+    "image": "/images/nezuko.jpg",
+    "category": "鬼殺隊"
+  },
+  {
+    "name": "煉獄杏寿郎",
+    "image": "/images/kyojuro.jpg",
+    "category": "柱"
+  },
+  {
+    "name": "響凱",
+    "image":"/images/kyogai.jpg",
+    "category": "鬼"
+  }
+]
