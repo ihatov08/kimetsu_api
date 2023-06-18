@@ -16,7 +16,7 @@ https://ihatov08.github.io/kimetsu_api/api
 
 example
 
-https://ihatov08.github.io/kimetsu_api/api/all.json
+[https://ihatov08.github.io/kimetsu_api/api/all.json](https://ihatov08.github.io/kimetsu_api/api/all.json)
 
 ## Run
 
@@ -24,19 +24,25 @@ https://ihatov08.github.io/kimetsu_api/api/all.json
 bin/start
 ```
 
-http://localhost:8000
+[http://localhost:8000](http://localhost:8000)
 
 ## ALL API
 
 /all.json
 
+[https://ihatov08.github.io/kimetsu_api/api/all.json](https://ihatov08.github.io/kimetsu_api/api/all.json)
+
 ## 鬼 API
 
 /oni.json
 
+[https://ihatov08.github.io/kimetsu_api/api/oni.json](https://ihatov08.github.io/kimetsu_api/api/oni.json)
+
 ## 鬼殺隊 API
 
 /kisatsutai.json
+
+[https://ihatov08.github.io/kimetsu_api/api/kisatsutai.json](https://ihatov08.github.io/kimetsu_api/api/kisatsutai.json)
 
 ## 画像参照元
 
