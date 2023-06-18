@@ -14,6 +14,10 @@ Github Pages
 
 https://ihatov08.github.io/kimetsu_api/api
 
+example
+
+https://ihatov08.github.io/kimetsu_api/api/all.json
+
 ## Run
 
 ```
