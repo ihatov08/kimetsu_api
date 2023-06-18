@@ -29,3 +29,7 @@ http://localhost:8000
 ## 鬼殺隊 API
 
 /kisatsutai.json
+
+## 画像参照元
+
+https://simplelog.me/entry/kimetsu-negajo-free-item
