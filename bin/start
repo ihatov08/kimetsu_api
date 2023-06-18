@@ -1,5 +1,4 @@
 docker run -it --rm -p 8000:8000 \
--v "$PWD":/usr/src/myapp \
--v "$PWD"/images:/usr/src/myapp/kimetsu_api/api \
+-v "$PWD":/usr/src/myapp/kimetsu_api \
 -w /usr/src/myapp ruby:2.7 \
 ruby -rwebrick -e 'WEBrick::HTTPServer.new(:DocumentRoot => "./", :Port => 8000).start'

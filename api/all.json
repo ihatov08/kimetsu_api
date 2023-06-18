@@ -1,22 +1,22 @@
 [
   {
     "name": "竈門炭治郎",
-    "image": "/kimetsu_api/api/tanjiro.jpg",
+    "image": "/kimetsu_api/images/tanjiro.jpg",
     "category": "鬼殺隊"
   },
   {
     "name": "竈門禰豆子",
-    "image": "/kimetsu_api/api/nezuko.jpg",
+    "image": "/kimetsu_api/images/nezuko.jpg",
     "category": "鬼殺隊"
   },
   {
     "name": "煉獄杏寿郎",
-    "image": "/kimetsu_api/api/kyojuro.jpg",
+    "image": "/kimetsu_api/images/kyojuro.jpg",
     "category": "柱"
   },
   {
     "name": "響凱",
-    "image":"/kimetsu_api/api/kyogai.jpg",
+    "image":"/kimetsu_api/images/kyogai.jpg",
     "category": "鬼"
   }
 ]
