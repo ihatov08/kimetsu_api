@@ -1,12 +1,12 @@
 [
   {
     "name": "竈門炭治郎",
-    "image": "https://i.imgur.com/2Q5Z9XG.jpg",
+    "image": "/kimetsu_api/api/tanjiro.jpg",
     "category": "鬼殺隊"
   },
   {
     "name": "竈門禰豆子",
-    "image": "https://i.imgur.com/2Q5Z9XG.jpg",
+    "image": "/kimetsu_api/api/nezuko.jpg",
     "category": "鬼殺隊"
   }
 ]
