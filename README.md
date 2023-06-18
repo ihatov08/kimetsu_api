@@ -8,7 +8,11 @@
 
 local
 
-http://localhost:8000
+http://localhost:8000/kimetsu_api/api
+
+Github Pages
+
+https://ihatov08.github.io/kimetsu_api/api
 
 ## Run
 
