@@ -32,6 +32,12 @@ bin/start
 
 [https://ihatov08.github.io/kimetsu_api/api/all.json](https://ihatov08.github.io/kimetsu_api/api/all.json)
 
+## 柱 API
+
+/hashira.json
+
+[https://ihatov08.github.io/kimetsu_api/api/hashira.json](https://ihatov08.github.io/kimetsu_api/api/hashira.json)
+
 ## 鬼 API
 
 /oni.json
